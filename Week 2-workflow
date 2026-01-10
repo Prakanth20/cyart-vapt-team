@@ -1,0 +1,29 @@
+# Week 2 VAPT Workflow
+
+## 1. Vulnerability Scanning
+- Nmap service scan
+- OpenVAS vulnerability scan
+- Nikto web scan
+- CVSS-based prioritization
+
+## 2. Reconnaissance
+- OSINT using Shodan & Maltego
+- Asset identification
+- Subdomain enumeration
+
+## 3. Exploitation
+- Metasploit exploitation
+- sqlmap SQL injection testing
+- Validation using Exploit-DB
+
+## 4. Post-Exploitation
+- Privilege escalation
+- Evidence collection
+- File hashing (SHA256)
+
+## 5. Capstone
+- DVWA exploitation
+- PTES-aligned reporting
+- Remediation and rescan
+
+
