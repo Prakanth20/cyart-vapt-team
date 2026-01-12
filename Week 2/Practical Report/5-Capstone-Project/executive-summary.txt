@@ -1,0 +1,5 @@
+A security assessment identified critical weaknesses in the application.
+Attack simulations showed that attackers could access sensitive data.
+Fixing these issues will significantly reduce risk.
+Regular testing and updates are recommended.
+
