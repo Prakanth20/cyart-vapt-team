@@ -1,0 +1,3 @@
+Reconnaissance identified exposed SSH and web services through OSINT tools. 
+Subdomain enumeration revealed development endpoints. 
+The gathered information provides an initial attack surface for further testing.
